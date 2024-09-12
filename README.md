@@ -1,4 +1,4 @@
-# Telegram CC Scraper Bot 🚀
+# TempMail Bot 📧
 
 This Telegram bot allows users to generate temporary email addresses, check inboxes, and retrieve email messages directly through Telegram. The bot interacts with the TempMail API to provide a seamless, user-friendly experience, including options to create random or custom email addresses. This bot is intended for educational purposes only and should not be used for any illegal activities.
 
