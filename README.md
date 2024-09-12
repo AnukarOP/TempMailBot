@@ -64,6 +64,9 @@ This bot is meant for educational purposes only. The use of this bot for illegal
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
+## Contributions
+
+Contributions are always welcome! Feel free to fork the repository, submit pull requests, or open issues. All suggestions, improvements, and bug fixes are appreciated! Let's make this project even better together. 😄
 <p align="center">
   <a href="https://github.com/AnukarOP" target="_blank">
     <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%20by-AnukarOP-%23FF0000.svg" alt="Made with love by AnukarOP"/>
